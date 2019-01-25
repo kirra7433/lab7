@@ -1,0 +1,9 @@
+C:\Users\Nastya\Desktop\Университет\ЗПиД\ЗПиД7\ЗПиД7\bin\Debug\ЗПиД7.exe.config
+C:\Users\Nastya\Desktop\Университет\ЗПиД\ЗПиД7\ЗПиД7\bin\Debug\ЗПиД7.exe
+C:\Users\Nastya\Desktop\Университет\ЗПиД\ЗПиД7\ЗПиД7\bin\Debug\ЗПиД7.pdb
+C:\Users\Nastya\Desktop\Университет\ЗПиД\ЗПиД7\ЗПиД7\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Nastya\Desktop\Университет\ЗПиД\ЗПиД7\ЗПиД7\obj\Debug\ЗПиД7.exe
+C:\Users\Nastya\Desktop\Университет\ЗПиД\ЗПиД7\ЗПиД7\obj\Debug\ЗПиД7.pdb
+D:\OSU\ЗПиД\ЗПиД7\ЗПиД7\bin\Debug\ЗПиД7.exe.config
+D:\OSU\ЗПиД\ЗПиД7\ЗПиД7\obj\Debug\ЗПиД7.exe
+D:\OSU\ЗПиД\ЗПиД7\ЗПиД7\obj\Debug\ЗПиД7.pdb

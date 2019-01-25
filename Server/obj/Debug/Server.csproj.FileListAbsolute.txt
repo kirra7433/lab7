@@ -1,0 +1,9 @@
+C:\Users\Nastya\Desktop\Университет\ЗПиД\ЗПиД7\Server\bin\Debug\Server.exe.config
+C:\Users\Nastya\Desktop\Университет\ЗПиД\ЗПиД7\Server\bin\Debug\Server.exe
+C:\Users\Nastya\Desktop\Университет\ЗПиД\ЗПиД7\Server\bin\Debug\Server.pdb
+C:\Users\Nastya\Desktop\Университет\ЗПиД\ЗПиД7\Server\obj\Debug\Server.exe
+C:\Users\Nastya\Desktop\Университет\ЗПиД\ЗПиД7\Server\obj\Debug\Server.pdb
+C:\Users\Nastya\Desktop\Университет\ЗПиД\ЗПиД7\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\OSU\ЗПиД\ЗПиД7\Server\bin\Debug\Server.exe.config
+D:\OSU\ЗПиД\ЗПиД7\Server\obj\Debug\Server.exe
+D:\OSU\ЗПиД\ЗПиД7\Server\obj\Debug\Server.pdb
